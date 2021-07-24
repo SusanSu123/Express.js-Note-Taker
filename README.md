@@ -7,7 +7,7 @@ The application is to build the back end, connect the two, and then deploy the e
 
 ## How to install
 
-* Clone the repository - https://github.com/SusanSu123/Homework-week-11.git
+* Clone the repository - https://github.com/SusanSu123/Express.js-Note-Taker.git
 
 * NPM install - (To install all required packages from package.json)
 
